@@ -6,7 +6,7 @@ Quarterly Performance Analysis - Q2 2025 Data Story
 🤖 Generated with: LLM/AI assistance for comprehensive data analysis
 🔗 LLM Reference: https://chatgpt.com/codex/tasks
 
-Executive Summary
+#Executive Summary
 This comprehensive analysis examines our quarterly performance metrics from Q1 2024 through Q2 2025, revealing critical trends and providing data-driven recommendations to achieve our target performance score of 15.0.
 
 Key Finding: Our current average performance score is 72.98, significantly below our target of 15.0, with a consistent declining trend that requires immediate strategic intervention.
